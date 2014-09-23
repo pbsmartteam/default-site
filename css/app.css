@@ -1,0 +1,8 @@
+.content img {
+  height: 32px;
+  width: 206px;
+  margin: -16px auto auto -103px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
